@@ -1,24 +1,24 @@
 [submodule "cscctest"]
 	path = cscctest
-	url = ../dotgnu-pnet/cscctest.git
+	url = https://github.com/mharasimowicz/cscctest.git
 [submodule "libCrayons"]
 	path = libCrayons
-	url = ../dotgnu-pnet/libCrayons.git
+	url = https://github.com/mharasimowicz/libCrayons.git
 [submodule "libjit"]
 	path = libjit
-	url = ../dotgnu-pnet/libjit.git
+	url = https://github.com/mharasimowicz/libjit.git
 [submodule "ml-pnet"]
 	path = ml-pnet
-	url = ../dotgnu-pnet/ml-pnet.git
+	url = https://github.com/mharasimowicz/ml-pnet.git
 [submodule "pnet"]
 	path = pnet
-	url = ../dotgnu-pnet/pnet.git
+	url = https://github.com/mharasimowicz/pnet.git
 [submodule "pnetC"]
 	path = pnetC
-	url = ../dotgnu-pnet/pnetC.git
+	url = https://github.com/mharasimowicz/pnetC.git
 [submodule "pnetlib"]
 	path = pnetlib
-	url = ../dotgnu-pnet/pnetlib.git
+	url = https://github.com/mharasimowicz/pnetlib.git
 [submodule "treecc"]
 	path = treecc
-	url = ../dotgnu-pnet/treecc.git
+	url = https://github.com/mharasimowicz/treecc.git
